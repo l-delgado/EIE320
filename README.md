@@ -1,7 +1,7 @@
 Realizado por [Leandro Delgado](https://instagram.com/leandrodelgadoa/).
-### Código MatLab
+## Código MatLab
 Tarea 1
-## Ejercicio 2
+#### Ejercicio 2
 ```markdown
 %funciones trigonometricas
 clc, close all , close all
@@ -39,7 +39,7 @@ grid on
 ```
 
 
-## Ejercicio 3
+#### Ejercicio 3
 ```markdown
 clc, close all 
 %Decibeles a veces
