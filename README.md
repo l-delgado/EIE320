@@ -1,6 +1,6 @@
 Realizado por [Leandro Delgado](https://instagram.com/leandrodelgadoa/).
-## Código MatLab
-
+### Código MatLab
+Tarea 1
 ## Ejercicio 2
 ```markdown
 %funciones trigonometricas
