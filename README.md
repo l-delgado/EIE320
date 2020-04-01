@@ -1,4 +1,4 @@
-Realizado por [Leandro Delgado](https://instagram.com/leandrodelgado/).
+Realizado por [Leandro Delgado](https://instagram.com/leandrodelgadoa/).
 ## Código MatLab
 
 ## Ejercicio 2
