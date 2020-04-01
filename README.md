@@ -1,9 +1,6 @@
-## Propagacion-de-ondas-electromagneticas
+## Código MatLab funciones trigonométricas
 
-You can use the [editor on GitHub](https://github.com/l-delgado/Estudio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+código en MatLab que permita graficar las funciones senso, coseno y tangente
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
