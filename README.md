@@ -1,6 +1,6 @@
 ## Código MatLab funciones trigonométricas
 
-código en MatLab que permita graficar las funciones senso, coseno y tangente
+#código en MatLab que permita graficar las funciones senso, coseno y tangente
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
