@@ -1,8 +1,8 @@
 %funciones trigonometricas
 clc, close all , close all
-T=2*pi; %Periodo de 0.5 segundos
+T=2*pi; %Periodo de 2 pi segundos
 f= 1/T; %frecuencia de 1/T
-t=0:1/(f*32):4*pi;%Tiempo desde o a 1 con paso fraccionario de 1/100
+t=0:1/(f*32):4*pi;%Tiempo desde o a 1 con paso fraccionario de 1/f*32
 pha=0;
 A=1; %amplitud de 1
 
