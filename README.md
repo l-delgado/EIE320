@@ -4,8 +4,7 @@ Realizado por [Leandro Delgado](https://instagram.com/leandrodelgadoa/).
 #### Código que permita graficar las funciones rotacional y gradiente.
 ```markdown
 %Código que permite graficar las funciones rotacional y gradiente.
-%leandro delgado
-%
+%LD
 
 %Gradiente 
 clc
