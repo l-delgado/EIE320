@@ -1,7 +1,7 @@
 Realizado por [Leandro Delgado](https://instagram.com/leandrodelgadoa/).
 ## Código MatLab
-Tarea 1
-#### Ejercicio 2
+--------------
+#### Código en MatLab que permite graficar las funciones senso, coseno y tangente. Todas las variables definidas antes de usar la función trigonométrica.
 ```markdown
 %funciones trigonometricas
 clc, close all , close all
@@ -39,7 +39,7 @@ grid on
 ```
 
 
-#### Ejercicio 3
+#### código de MatLab que transforma de dB a veces, en ambas direcciones.
 ```markdown
 clc, close all 
 %Decibeles a veces
